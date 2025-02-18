@@ -1,0 +1,1 @@
+The corrected CSS demonstrates proper usage of the `calc()` function.  Spaces are added around the operators, ensuring correct calculation:  `width: calc(100% - 20px);`  This prevents unexpected behavior. When used with flexbox, understanding of how the flexbox calculation operates in relation to the `calc()` is also important.
